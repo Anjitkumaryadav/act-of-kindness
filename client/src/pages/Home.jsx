@@ -19,8 +19,7 @@ export default function Home() {
       <div className='flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto '>
         <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to our page</h1>
         <p className='text-gray-500 text-xs sm:text-sm'>
-          Here you'll find a variety of articles and contents on topics such as
-          Random act of kindness.
+        Welcome to 'Random Acts of Kindness.' Join us in spreading smiles and making the world a brighter place, one small gesture at a time. Explore stories, ideas, and inspiration to ignite kindness in your daily life. Let's create ripples of positivity together. Start spreading joy now!
         </p>
         <Link
           to='/search'
